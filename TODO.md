@@ -1,0 +1,6 @@
+- [x] Create Models.
+- [ ] Write Controllers.
+- [x] in cart blade make quantity and update price dynamic.
+- [x] Make cart controller more like a controller.
+- [ ] After Handle Everything of ecommerce Do things for blog.
+- [x] Create CartItem Repository.
